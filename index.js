@@ -1,6 +1,7 @@
-// //
-// // Destructuring 1 nilai pada berkas javascript
-// //
+//
+// Destructuring 1 nilai pada berkas javascript
+//
+
 // import coffeeStock from './state.js';
 // // Menulis tiap tipe kopi   
 // const displayStock = stock => {
